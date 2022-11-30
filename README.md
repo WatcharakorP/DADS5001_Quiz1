@@ -6,6 +6,10 @@
 * 2.Create a simple GUI app for managing your data. The created app must have CRUD functions
 * 3.You can use any GUI libraries, e.g., pysimplegui, pyqt, tcl/tk, wxPython, etc.
 
+| %|ID|Name |
+| :------ | ------ |:------|
+|⭐ **`20%`** | **`6420422006`**  | 👦 Watcharakorn Pasanta  |
+
 
 ## End credit: 
 **This assignments is a part of Course DADS501 Deep Learning, Data Analytics and Data Science, NIDA.**
