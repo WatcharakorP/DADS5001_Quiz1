@@ -7,7 +7,7 @@
 * 3.You can use any GUI libraries, e.g., pysimplegui, pyqt, tcl/tk, wxPython, etc.
 
 
-| %|ID|Name |
+|ID|Name |
 | ------ |:------|
 | **`6420422006`**  | 👦 Watcharakorn Pasanta  |
 
